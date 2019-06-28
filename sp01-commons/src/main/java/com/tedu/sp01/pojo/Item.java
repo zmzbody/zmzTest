@@ -12,4 +12,5 @@ public class Item {
 	private String name;
 	private Integer number;
 	//你好
+	//再见
 }
