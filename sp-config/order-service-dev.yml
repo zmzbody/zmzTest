@@ -1,6 +1,6 @@
 spring:
   application:
-    name: order-service123
+    name: order-service
   rabbitmq:
     host: 192.168.118.140
     port: 5672
